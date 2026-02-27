@@ -24,15 +24,6 @@ Flexbox & Grid – Layout positioning
 
 Media Queries – Responsive design for different screen sizes
 
-📂 Project Structure
-📁 project-folder
-│
-├── index.html
-├── style.css
-└── 📁 images
-    ├── profile image
-    ├── background.png
-    ├── tool logos (HTML, CSS, JS, React, etc.)
 📌 Features
 👤 Profile Section
 
@@ -160,7 +151,12 @@ Prepare for future job opportunities in tech
 🔗 LinkedIn: (Add your link)
 🔗 GitHub: (Add your link)
 
+This is my Prestation 
+
+https://www.veed.io/view/5644a7bb-bf44-4eba-8cc3-0bdb7344446f?source=editor&panel=share
+
 📄 License
 
 This project is open for learning and personal inspiration. Feel free to fork and modify it for your own portfolio.
+
 
